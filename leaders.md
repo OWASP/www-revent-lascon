@@ -1,4 +1,4 @@
 ### Leaders
 * [Tiana Chandler](mailto:tiana.chandler@owasp.org)
 * [Kyle Smith](mailto:kyle.smith@owasp.org)
-* Bankim Tejani
+* [Bankim Tejani](mailto:bankim.tejani@owasp.org)
