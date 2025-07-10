@@ -16,8 +16,8 @@ The LASCON (Lonestar Application Security Conference) is an annual conference he
 Save the Dates for LASCON 2025, which will be our 15th year anniversary. We will be back at Norris Conference Center with Pre-Conference Training October 21-22, 2025 and Conference October 23-24, 2025. Visit <a href="https://lascon.org/" target="_blank">lascon.org</a>.
 
 <ul>
- <li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today!</a></li>
- <li>Tickets for Training Sessions are available.  <a href="https://lascon2025-training.eventbrite.com">Get your tickets!</a href></li>
- <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today!</a></li>
+ <li>Discounted Conference tickets are still available. We sold out last year, so <a href="https://lascon.org/tickets/" target="_blank">get yours today! </a></li>
+ <li>Tickets for Training Sessions are available.  <a href="https://lascon2025-training.eventbrite.com">Get your tickets! </a></li>
+ <li>Interested in sponsoring LASCON 2025? <a href="https://lascon.org/become-a-sponsor/" target="_blank">Become a Sponsor today! </a></li>
 </ul>
 
